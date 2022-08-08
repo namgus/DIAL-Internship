@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/chan/colbert_e2e/mlruns/0/d23914e7ab3f46be926986caf496e43b/artifacts
+end_time: 1644393439538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d23914e7ab3f46be926986caf496e43b
+run_uuid: d23914e7ab3f46be926986caf496e43b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644393439532
+status: 4
+tags: []
+user_id: root

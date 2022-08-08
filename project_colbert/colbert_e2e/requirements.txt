@@ -1,0 +1,6 @@
+mlflow
+tensorboard
+tqdm
+transformers==3.0.2
+ujson
+faiss-gpu==1.6.3
